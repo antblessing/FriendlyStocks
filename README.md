@@ -21,3 +21,5 @@ FriendlyStocks is a stock following and sharing app built with Ruby on Rails.  U
 
 
 ![](http://i392.photobucket.com/albums/pp9/gmb89/Screen%20Shot%202016-06-23%20at%202.09.39%20AM_zpsatxiepqj.png)
+
+!Deployed on [Heroku](https://friendlystocks.herokuapp.com/)
