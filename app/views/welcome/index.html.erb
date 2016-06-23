@@ -1,1 +1,8 @@
-<h1>FriendlyStocks</h1>
+<div class="bg"></div>
+<div class="jumbotron">
+  <h1>FriendlyStocks</h1>
+  <p class="lead">Follow and Share Stocks with your Friends!</p>
+  <% if !current_user %>
+    <%= link_to "Sign up Now!", new_user_session_path, class: "btn btn-success" %>
+  <% end %>
+</div>
